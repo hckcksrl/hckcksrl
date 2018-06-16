@@ -1,0 +1,16 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "dependencies": {
+    "expo": "^25.0.0",
+    "navigation": "^5.0.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-authenticate": "^1.0.1",
+    "react-native-cli": "^2.0.1",
+    "react-native-fingerprint-scanner": "^2.3.2",
+    "react-native-linear-gradient": "^2.4.0",
+    "react-native-touch-id": "^4.0.1",
+    "react-navigation": "^1.5.8"
+  }
+}
